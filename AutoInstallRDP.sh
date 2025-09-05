@@ -49,7 +49,7 @@ case $choice in
     4)
         # Windows 10
         img_file="windows10.img"
-        iso_link="https://178.128.98.252/WIN10.ISO"
+        iso_link="http://178.128.98.252/windows10.iso"
         iso_file="windows10.iso"
         ;;
     5)
